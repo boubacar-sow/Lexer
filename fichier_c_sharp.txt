@@ -1,0 +1,12 @@
+char variable1 = 0;
+string chaine;
+int variable2 = 0;
+if (variable2 > 5){
+    variable1 = 9;
+}
+for(char variable1=3; variable1>0; variable1=variable1-1){
+    variable2 = variable2 + 1;
+    
+}
+
+bonjour
